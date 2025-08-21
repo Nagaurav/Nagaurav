@@ -63,13 +63,10 @@ Yeshwantrao Chavan College Of Engineering (YCCE), Nagpur
 <!-- ![3D Model Screenshot](https://your-image-link.com/3d-image.png) Replace with your actual screenshot or remove -->
 
 ### AI-Based Mock Interview Training Model
-- <!-- An AI tool that gives real-time feedback on posture, facial expression, and voice tone for mock interviews.
+-  An AI tool that gives real-time feedback on posture, facial expression, and voice tone for mock interviews.
 
 ### API-based Password Checker
--<!--  A password strength evaluation tool providing real-time security feedback. -->
-
-### Cloud-Based Task Automation System
-- <!-- Automation of IT tasks and server monitoring using AWS cloud infrastructure.
+- A password strength evaluation tool providing real-time security feedback. 
 
 ---
 
